@@ -8,6 +8,7 @@ The core analysis is performed by glacier_extinction_main.m, which processes dat
 The script loads glacier volume and area projections under different warming levels (GCM/SSP combinations) for three global glacier models: PyGEM, OGGM, and GloGEM.
 
 The original simulations from these models are available in:
+
 Rounce et al. (2023)
 
 Zekollari et al. (2024)
