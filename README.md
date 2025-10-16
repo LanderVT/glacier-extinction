@@ -23,6 +23,6 @@ All necessary input data for the main script is stored in the folder input_data_
 
 The original simulations from these models are available in:
 
-Rounce et al. (2023)
+- Rounce et al. (2023)
 
-Zekollari et al. (2024)
+- Zekollari et al. (2024)
