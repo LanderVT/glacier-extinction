@@ -18,4 +18,6 @@ Zekollari et al. (2024)
 When running the main script, several figures are automatically generated.
 Some figures are produced directly within glacier_extinction_main.m, while others are created via supporting scripts (e.g., figure_probability.m and figure_piecharts.m).
 
-The main script also computes the key summary metrics of the study, including the peak extinction year and number of glaciers lost per region.
+## Summary metrics
+
+The main script also computes the key summary metrics of the study, including the peak extinction year, the number of glaciers lost per region and the number and size of the glaciers remaining.
