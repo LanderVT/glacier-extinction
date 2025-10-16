@@ -9,6 +9,7 @@ The script loads glacier volume and area projections under different warming lev
 
 The original simulations from these models are available in:
 Rounce et al. (2023)
+
 Zekollari et al. (2024)
 
 ## Figures
