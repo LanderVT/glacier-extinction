@@ -26,3 +26,7 @@ The original simulations from these models are available in:
 - Rounce et al. (2023)
 
 - Zekollari et al. (2024)
+
+## Results
+
+When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .nc (NetCDF) format and are available on [Zenodo](THIS ZENODO LINK).  
