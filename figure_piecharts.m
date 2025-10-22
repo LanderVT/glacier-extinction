@@ -38,6 +38,9 @@ data4(end+1) = 100;
 % n_slices = 76 → represents years 2025–2100
 % n_color_steps = 15 → 5-year blocks across the ring
 
+%   First figure is created hidden (for batch export),
+%   second one is visible (interactive view). Keep both if desired.
+
 %figure('units','normalized','outerposition',[0 0 1 1])
 figure('Visible', 'off', 'units','normalized','outerposition',[0 0 1 1])
 hold on;
