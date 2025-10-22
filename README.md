@@ -31,6 +31,8 @@ Rounce, D. R., Hock, R., Maussion, F., Hugonnet, R., Kochtitzky, W., Huss, M., B
 
 Zekollari, H., Huss, M., Schuster, L., Maussion, F., Rounce, D. R., Aguayo, R., Champollion, N., Compagno, L., Hugonnet, R., Marzeion, B., Mojtabavi, S., and Farinotti, D.: Twenty-first century global glacier evolution under CMIP6 scenarios and the role of glacier-specific observations, The Cryosphere, 18, 5045–5066, https://doi.org/10.5194/tc-18-5045-2024, 2024.
 
+- OGGM results are available at https://zenodo.org/records/8286065
+
 ## Results
 
 When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .csv format and are available at (https://doi.org/10.5281/zenodo.17371641).  
