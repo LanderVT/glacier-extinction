@@ -33,4 +33,4 @@ Zekollari, H., Huss, M., Schuster, L., Maussion, F., Rounce, D. R., Aguayo, R., 
 
 ## Results
 
-When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .nc (NetCDF) format and are available at (https://doi.org/10.5281/zenodo.17371641).  
+When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .csv format and are available at (https://doi.org/10.5281/zenodo.17371641).  
