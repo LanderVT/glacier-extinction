@@ -1,4 +1,4 @@
-# Peak Glacier Extinction in the Mid-21st Century
+# Peak Glacier Extinction in the mid-21st Century
 
 This repository contains the code used to reproduce the results presented in “Peak Glacier Extinction in the Mid-21st Century.”
 
