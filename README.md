@@ -19,7 +19,7 @@ The main script also computes the key summary metrics of the study, including th
 ## Data Preparation
 
 The data preparation scripts ensure consistent input structures across the three glacier models, which were originally provided in different formats (.txt, .csv, .nc). These scripts are included for transparency and reproducibility, but they are not required to run the main analysis.
-All necessary input data for the main script is stored in the folder input_data_models and is available on [Zenodo](THIS ZENODO LINK). 
+All necessary input data for the main script is stored in the folder input_data_models and is available at (https://zenodo.org/records/17371642). 
 
 The original simulations from these models are available in:
 
@@ -33,4 +33,4 @@ Zekollari, H., Huss, M., Schuster, L., Maussion, F., Rounce, D. R., Aguayo, R., 
 
 ## Results
 
-When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .nc (NetCDF) format and are available on [Zenodo](THIS ZENODO LINK).  
+When running the main script, the output data — including the peak extinction year per RGI region, extinction year for each glacier, and the number of remaining glaciers per region — are automatically saved as .mat files. For broader accessibility, all results have also been converted to .nc (NetCDF) format and are available at (https://zenodo.org/records/17371642).  
